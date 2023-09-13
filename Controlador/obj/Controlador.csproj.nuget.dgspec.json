@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\OneDrive\\Escritorio\\Aplicación Administrativa\\AppAdmin\\Modelo\\Modelo.csproj": {}
+    "C:\\Users\\Usuario\\OneDrive\\Escritorio\\Aplicación Administrativa\\AppAdmin\\Controlador\\Controlador.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\OneDrive\\Escritorio\\Aplicación Administrativa\\AppAdmin\\Modelo\\Modelo.csproj": {
+    "C:\\Users\\Usuario\\OneDrive\\Escritorio\\Aplicación Administrativa\\AppAdmin\\Controlador\\Controlador.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\Aplicación Administrativa\\AppAdmin\\Modelo\\Modelo.csproj",
-        "projectName": "Modelo",
-        "projectPath": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\Aplicación Administrativa\\AppAdmin\\Modelo\\Modelo.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\Aplicación Administrativa\\AppAdmin\\Controlador\\Controlador.csproj",
+        "projectName": "Controlador",
+        "projectPath": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\Aplicación Administrativa\\AppAdmin\\Controlador\\Controlador.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\Aplicación Administrativa\\AppAdmin\\Modelo\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\Aplicación Administrativa\\AppAdmin\\Controlador\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -48,14 +48,6 @@
             "Microsoft.Extensions.Hosting": {
               "target": "Package",
               "version": "[7.0.1, )"
-            },
-            "MongoDB.Bson": {
-              "target": "Package",
-              "version": "[2.21.0, )"
-            },
-            "MongoDB.Driver": {
-              "target": "Package",
-              "version": "[2.21.0, )"
             }
           },
           "imports": [

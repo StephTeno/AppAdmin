@@ -1,9 +1,12 @@
 ﻿using MongoDB.Driver;
 
+
 namespace Modelo.MongoDBs
 {
     public class MongoDBs
     {
+
+
         private static string cadena = "mongodb+srv://nic-angel-admin:X89F2N8x4qCJlfyE@cluster0.so9bo28.mongodb.net/?retryWrites=true&w=majority";
 
         public static MongoClient GetConnection()
