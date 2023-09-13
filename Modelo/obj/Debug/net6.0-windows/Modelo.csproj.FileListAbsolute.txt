@@ -1,0 +1,12 @@
+C:\Users\Usuario\OneDrive\Escritorio\Aplicación Administrativa\AppAdmin\Modelo\bin\Debug\net6.0-windows\Modelo.deps.json
+C:\Users\Usuario\OneDrive\Escritorio\Aplicación Administrativa\AppAdmin\Modelo\bin\Debug\net6.0-windows\Modelo.dll
+C:\Users\Usuario\OneDrive\Escritorio\Aplicación Administrativa\AppAdmin\Modelo\bin\Debug\net6.0-windows\Modelo.pdb
+C:\Users\Usuario\OneDrive\Escritorio\Aplicación Administrativa\AppAdmin\Modelo\obj\Debug\net6.0-windows\Modelo.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Escritorio\Aplicación Administrativa\AppAdmin\Modelo\obj\Debug\net6.0-windows\Modelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Escritorio\Aplicación Administrativa\AppAdmin\Modelo\obj\Debug\net6.0-windows\Modelo.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\Aplicación Administrativa\AppAdmin\Modelo\obj\Debug\net6.0-windows\Modelo.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Escritorio\Aplicación Administrativa\AppAdmin\Modelo\obj\Debug\net6.0-windows\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\Aplicación Administrativa\AppAdmin\Modelo\obj\Debug\net6.0-windows\Modelo.dll
+C:\Users\Usuario\OneDrive\Escritorio\Aplicación Administrativa\AppAdmin\Modelo\obj\Debug\net6.0-windows\refint\Modelo.dll
+C:\Users\Usuario\OneDrive\Escritorio\Aplicación Administrativa\AppAdmin\Modelo\obj\Debug\net6.0-windows\Modelo.pdb
+C:\Users\Usuario\OneDrive\Escritorio\Aplicación Administrativa\AppAdmin\Modelo\obj\Debug\net6.0-windows\ref\Modelo.dll
