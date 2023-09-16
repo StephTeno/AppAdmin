@@ -19,11 +19,6 @@ namespace Vista.HOME
             InitializeComponent();
         }
 
-        private void rjButton1_Click(object sender, EventArgs e)
-        {
-            MongoClient conexion = MongoDBs.GetConnection();
-        }
-
         private void btnExit_Click(object sender, EventArgs e)
         {
             Application.Exit();
@@ -52,6 +47,12 @@ namespace Vista.HOME
         private void btnExit_MouseLeave(object sender, EventArgs e)
         {
             btnExit.BackColor = Color.MidnightBlue;
+        }
+
+        private void frmHome_Load(object sender, EventArgs e)
+        {
+            this.Location = Screen.PrimaryScreen.WorkingArea.Location;
+            this.Size = Screen.PrimaryScreen.WorkingArea.Size;
         }
     }
 }

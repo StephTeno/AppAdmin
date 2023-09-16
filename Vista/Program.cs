@@ -1,7 +1,10 @@
+using Microsoft.Extensions.Configuration;
+
 namespace Vista
 {
     internal static class Program
     {
+        public static IConfiguration? Configuration;
         /// <summary>
         ///  The main entry point for the application.
         /// </summary>

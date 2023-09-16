@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "LyWIHWrZyiLO61ICrTzfANTZfhysvco+9VQYYyFOSrANJR4f9DMioi2yih6WUueDgi7NMHoL8kgMQlAzhyO2Dw==",
+  "dgSpecHash": "L2iyEiUcUoQSlRIYmkXTa1mMWJ6vt3E8zTN0++fNXXY9h6Jq1UJRhSO7q4DZyhBWeVEv/rbfrvFrYiV2iIlWtA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\Aplicación Administrativa\\AppAdmin\\Modelo\\Modelo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Usuario\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\dnsclient\\1.6.1\\dnsclient.1.6.1.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",

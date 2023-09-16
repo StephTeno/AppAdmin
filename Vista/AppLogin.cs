@@ -21,7 +21,7 @@ namespace Vista
         private void btnLogin_Click(object sender, EventArgs e)
         {
             //Mejorar esta validación bien
-            if (txtUser.Texts != "StephTeno19" || txtPassword.Texts != "NieTeno")
+            if (txtUser.Texts != "a" || txtPassword.Texts != "a")
                 lblErrorLogin.Visible = true;
             else
             {

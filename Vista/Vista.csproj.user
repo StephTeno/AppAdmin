@@ -10,7 +10,7 @@
     <Compile Update="Controles personalizados\RJTextBox.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Update="HOME\frmHome.cs">
+    <Compile Update="Vistas\frmHome.cs">
       <SubType>Form</SubType>
     </Compile>
   </ItemGroup>
